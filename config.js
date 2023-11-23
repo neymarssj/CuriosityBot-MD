@@ -14,12 +14,12 @@ global.suittag = ['994400359205']
 global.mods = []
 global.prems = []
 
-global.packname = 'CuriosityBot-MD'
+global.packname = 'NeymarJr'
 global.author = ''
-global.wm = '© CuriosityBot-MD'
-global.wm2 = '𝗖𝗎𝗋𝗂𝗈𝗌𝗂𝗍𝗒 : 𝗕𝗈𝗍'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot-MD'
+global.wm = '© NeymarJr'
+global.wm2 = 'NeymarJr'
+global.azami = 'alann'
+global.cb = 'NeymarJr'
 
 global.vs = '1.0.2'
 global.library = 'Baileys'
