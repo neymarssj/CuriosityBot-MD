@@ -23,7 +23,7 @@ let info = `
 *📑 INFO CURIOSITY BOT MD*
 
 👑 *CREADOR*
- *Azami*
+ *alann*
 --------------------------
 🥏 *CONTACTO* 
  *${ig}*
