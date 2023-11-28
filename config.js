@@ -14,12 +14,12 @@ global.suittag = ['994400359205']
 global.mods = []
 global.prems = []
 
-global.packname = 'CuriosityBot-MD'
+global.packname = 'LASD9 🇺🇾'
 global.author = ''
-global.wm = '© CuriosityBot-MD'
-global.wm2 = '𝗖𝗎𝗋𝗂𝗈𝗌𝗂𝗍𝗒 : 𝗕𝗈𝗍'
-global.azami = 'Azami'
-global.cb = 'CuriosityBot-MD'
+global.wm = 'LASD9 🇺🇾'
+global.wm2 = 'LASD9 🇺🇾'
+global.azami = 'alann'
+global.cb = 'LASD9 🇺🇾'
 
 global.vs = '1.0.2'
 global.library = 'Baileys'
